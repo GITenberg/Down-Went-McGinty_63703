@@ -10,6 +10,9 @@ contributor:
     deathdate: 2006
     gutenberg_agent_id: '52485'
     url: http://www.gutenberg.org/2009/agents/52485
+covers:
+- cover_type: archival
+  image_path: 63703-h/images/cover.jpg
 creator:
   author:
     agent_name: Holden, Fox B.
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '35294'
     url: http://www.gutenberg.org/2009/agents/35294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63703#Down-Went-McGinty
 gutenberg_issued: '2020-11-10'
 gutenberg_type: Text
 identifiers:
